@@ -31,5 +31,5 @@ GET http://localhost:8080/inditex/precio?fecha=2020-06-14T15:00:00.000Z&producto
 
 Esto devuelve una respuesta con el resultado de la operación solicitada
 
-## Tests
+# Tests
 Para ejecutar los [tests](src/test/java) debes ejecutar el comando `mvn clean test`.
